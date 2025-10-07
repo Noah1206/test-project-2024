@@ -11,7 +11,7 @@
 
 int main()
 {
-    int input;
+    int input=10;
     int number[10]; // 사용자가 입력한 숫자 10개
     int count = 1;  // 현재까지 입력된 숫자의 갯수(0~10)
     int i = 0;      // 반복문을 위한 변수
