@@ -38,11 +38,6 @@ int main()
                     px = 1;
                     break;
                 }
-                        }
-            if (px == 0)
-            {
-                count = count + 1;
-                i++;
             }
         }
     }
