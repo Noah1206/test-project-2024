@@ -38,11 +38,7 @@ int main()
                     px = 1;
                     break;
                 }
-                else
-                {
-                    px = 0;
-                }
-            }
+                        }
             if (px == 0)
             {
                 count = count + 1;
